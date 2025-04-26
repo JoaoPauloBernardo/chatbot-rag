@@ -15,17 +15,17 @@ Este projeto é um chatbot inteligente que responde perguntas sobre os Pokémon 
 git clone https://github.com/JoaoPauloBernardo/chatbot-rag.git
 cd chatbot-rag
 
-2. Instale as dependências
+### 2. Instale as dependências
 pip install -r requirements.txt
 
-4. Gere a base vetorizada
+### 3. Gere a base vetorizada
 python scripts/criar_base_vetorizada.py
 (Gera a base a partir do arquivo pokemons_primeira_geracao.pdf)
 
-5. Rode o chatbot
+### 4. Rode o chatbot
 python scripts/chat_rag.py
 
-7. Acesse no navegador
+### 5. Acesse no navegador
 http://127.0.0.1:7860
 
 💬 Exemplos de perguntas que você pode fazer
