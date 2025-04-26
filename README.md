@@ -41,18 +41,33 @@ Qual a velocidade do Gengar?
 Ataque especial do Alakazam?
 
 
-🧩 Tecnologias utilizadas
-Python 3.10
+🚀 Tecnologias Principais
+Python (Linguagem base do projeto)
 
-LangChain
+LangChain (Framework para construção de pipelines com LLMs)
 
-ChromaDB
+ChromaDB (Banco de dados vetorial para armazenamento e recuperação de embeddings)
 
-Sentence Transformers
+Sentence Transformers (Modelos de embeddings - all-MiniLM-L6-v2 e paraphrase-multilingual-MiniLM-L12-v2)
 
-Gradio
+Gradio (Interface web para o chatbot)
 
-PokéAPI
+PyMuPDF/Fitz (Processamento de PDFs)
+
+FPDF (Geração de PDFs programaticamente)
+
+PokeAPI (API REST para dados de Pokémon)
+
+📊 Processamento de Dados/NLP
+Recuperação de Informação (RAG - Retrieval-Augmented Generation)
+
+Processamento de Linguagem Natural (NLP para detecção de intenções e entidades)
+
+Text Splitting (RecursiveCharacterTextSplitter do LangChain)
+
+Similaridade Semântica (via embeddings)
+
+Correção de Nomes (Fuzzy matching com difflib)
 
 💬 Sobre o projeto
 Este chatbot foi desenvolvido como estudo de técnicas modernas de RAG (Retrieval-Augmented Generation) com integração de APIs externas, demonstrando habilidades práticas em Inteligência Artificial Aplicada, Engenharia de Dados e Desenvolvimento Web com Python.
