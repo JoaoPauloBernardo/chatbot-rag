@@ -28,7 +28,7 @@ python scripts/chat_rag.py
 ### 5. Acesse no navegador
 http://127.0.0.1:7860
 
-💬 Exemplos de perguntas que você pode fazer
+### 💬 Exemplos de perguntas que você pode fazer
 
 Qual o tipo do Charizard?
 
@@ -41,7 +41,7 @@ Qual a velocidade do Gengar?
 Ataque especial do Alakazam?
 
 
-🚀 Tecnologias Principais
+### 🚀 Tecnologias Principais
 Python (Linguagem base do projeto)
 
 LangChain (Framework para construção de pipelines com LLMs)
@@ -58,7 +58,7 @@ FPDF (Geração de PDFs programaticamente)
 
 PokeAPI (API REST para dados de Pokémon)
 
-📊 Processamento de Dados/NLP
+### 📊 Processamento de Dados/NLP
 Recuperação de Informação (RAG - Retrieval-Augmented Generation)
 
 Processamento de Linguagem Natural (NLP para detecção de intenções e entidades)
@@ -69,9 +69,9 @@ Similaridade Semântica (via embeddings)
 
 Correção de Nomes (Fuzzy matching com difflib)
 
-💬 Sobre o projeto
+### 💬 Sobre o projeto
 Este chatbot foi desenvolvido como estudo de técnicas modernas de RAG (Retrieval-Augmented Generation) com integração de APIs externas, demonstrando habilidades práticas em Inteligência Artificial Aplicada, Engenharia de Dados e Desenvolvimento Web com Python.
 
-🏆 Autor
+### 🏆 Autor
 João Paulo Bernardo
 https://www.linkedin.com/in/jo%C3%A3o-paulo-fonseca-bernardo-169971246/
